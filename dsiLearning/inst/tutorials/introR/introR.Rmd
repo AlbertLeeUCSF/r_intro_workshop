@@ -1,0 +1,36 @@
+---
+title: "R for Everyone: The Fundamentals"
+output: learnr::tutorial
+runtime: shiny_prerendered
+---
+
+```{r setup, include=FALSE}
+library(learnr)
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Course Overview
+
+#### Welcome!
+Want to learn computer programming but don't know where to start? You're in the right place! You will learn basic computer programming with R, and by the end of the course, you will be able to:
+- Describe the difference between R and RStudio
+
+#### Before you begin
+This course is designed for beginners, and there are no pre-requisites. However, you'll need to have some software installed:
+
+- [Install R](https://cran.r-project.org/)
+- [Install RStudio](https://www.rstudio.com/products/rstudio/download/)
+
+Chances are, if you're viewing this course, you already have these installed. However, if that is not the case, take a moment to install both R and RStudio on your computer (both macOS and Windows are fine), and we'll discuss what these are later! If you already have these installed, you are good to go!
+
+#### Course Authors
+- [Karla Lingquist, PhD](http://profiles.ucsf.edu/karla.lindquist) is the Scientific Lead for the Data Science Initiative in the UCSF Library.
+- Albert Lee is an Instructional Designer and Analyst for the Data Science Initiative in the UCSF Library.
+
+#### Creative Commons
+All materials and topics in this course are subject to periodical changes and updates by the Instructor. This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+
+
+## What are R and RStudio?
+
+## Launching RStudio
